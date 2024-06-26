@@ -1,5 +1,5 @@
 # spotify-data
-Spotify "application" that pulls my personal data and store it in a Google spreadsheet (public version)
+Spotify "application" that pulls my personal data and store it in a Google spreadsheet (public version : no workflows available on this repo)
 
 The goal is to use the Spotify API and the Google spreadsheet API. I want to store my personal data in this spreadsheet. Every 3 hours, my listening data will be stored in a google sheet tab, as the script will be automated with github workflows. Then his data will be sorted in different categories : amount of minutes listened to spotify this week, top 5 artists of the week (and number of songs for each artist), top 5 songs of the week (and amount of time I have listened to the song for each song), then finally album of the week.
 
