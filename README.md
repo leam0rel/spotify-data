@@ -1,5 +1,5 @@
 # spotify-data
-Spotify "application" that pulls my personal data and store it in a Google spreadsheet.
+Spotify "application" that pulls my personal data and stores it in a Google spreadsheet.
 
 This is the public version : the workflows are not available in this repository :)
 
